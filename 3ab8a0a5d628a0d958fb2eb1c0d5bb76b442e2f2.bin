@@ -1,0 +1,5 @@
+:genrule//:foo*jdarwin_arm64-fastbuilddarwin_arm64"@fbbe53539582d1eb7212393bd046c0006cfe520b8745e096dd44823ed8747f2bBexternalBbazel_toolsBtoolsBgenruleBgenrule-setup.sh
+"B		bazel-outBdarwin_arm64-fastbuild	B	binBa
+€@d77da09c3caf75706716060460c6c5148d163533aafffc02c47f217134f3f858"Genrule(2	/bin/bash2-c2ysource external/bazel_tools/tools/genrule/genrule-setup.sh; 
+        echo a > bazel-out/darwin_arm64-fastbuild/bin/a
+    BJhr@local_config_platform//:host
