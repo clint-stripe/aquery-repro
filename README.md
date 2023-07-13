@@ -72,3 +72,5 @@ aquery has the same textproto, but `--output=proto` ends with a partial message:
 `20202020202020206563686f2061203e2062617a656c2d6f75742f64617277696e5f61726d36342d`
 `666173746275696c642f62696e2f610a`
 ```
+
+<img alt="diff-screenshot" src="https://github.com/clint-stripe/aquery-repro/assets/60013602/70989f49-9f6e-492d-95b0-0dbc3ce9e4c8">
